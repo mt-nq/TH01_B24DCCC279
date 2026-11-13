@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand / Primary Colors -->
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_light">#E3F2FD</color>
+    <color name="primary_variant">#0D47A1</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <color name="secondary">#26A69A</color>
+    <color name="secondary_dark">#00897B</color>
+    <color name="secondary_light">#E0F2F1</color>
+    <color name="on_secondary">#FFFFFF</color>
+
+    <!-- Backgrounds & Surfaces -->
+    <color name="background">#F5F7FB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+    <color name="text_disabled">#BDBDBD</color>
+
+    <!-- Priority Colors -->
+    <!-- Cao (High) -->
+    <color name="priority_high_bg">#FFEBEE</color>
+    <color name="priority_high_text">#D32F2F</color>
+    <color name="priority_high_border">#FFCDD2</color>
+
+    <!-- Trung bình (Medium) -->
+    <color name="priority_medium_bg">#FFF3E0</color>
+    <color name="priority_medium_text">#E65100</color>
+    <color name="priority_medium_border">#FFE0B2</color>
+
+    <!-- Thấp (Low) -->
+    <color name="priority_low_bg">#E8F5E9</color>
+    <color name="priority_low_text">#2E7D32</color>
+    <color name="priority_low_border">#C8E6C9</color>
+
+    <!-- Status Colors -->
+    <!-- Đã hoàn thành (Completed) -->
+    <color name="status_completed_bg">#E8F5E9</color>
+    <color name="status_completed_text">#2E7D32</color>
+    <color name="status_completed_badge">#4CAF50</color>
+
+    <!-- Chưa thực hiện (Pending) -->
+    <color name="status_pending_bg">#FFF8E1</color>
+    <color name="status_pending_text">#F57F17</color>
+    <color name="status_pending_badge">#FF9800</color>
+
+    <!-- Stat Card Accent Colors -->
+    <color name="stat_total_bg">#E3F2FD</color>
+    <color name="stat_total_text">#1565C0</color>
+    <color name="stat_completed_bg">#E8F5E9</color>
+    <color name="stat_completed_text">#2E7D32</color>
+    <color name="stat_pending_bg">#FFF3E0</color>
+    <color name="stat_pending_text">#E65100</color>
+
+    <!-- Basic -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="delete_red">#D32F2F</color>
+</resources>

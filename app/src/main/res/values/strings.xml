@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Quản Lý Công Việc</string>
+    
+    <!-- Titles & Headers -->
+    <string name="title_task_list">Danh sách công việc</string>
+    <string name="title_add_task">Thêm công việc mới</string>
+    <string name="title_edit_task">Chỉnh sửa công việc</string>
+    <string name="title_task_detail">Chi tiết công việc</string>
+    <string name="statistics_title">Thống kê công việc</string>
+    
+    <!-- Statistics labels -->
+    <string name="stat_total">Tổng số</string>
+    <string name="stat_completed">Đã xong</string>
+    <string name="stat_pending">Chưa xong</string>
+    <string name="stat_progress">Tiến độ hoàn thành: %1$d%%</string>
+
+    <!-- Fields & Hints -->
+    <string name="label_task_id">Mã CV: #%1$d</string>
+    <string name="hint_task_title">Tên công việc (*)</string>
+    <string name="hint_task_desc">Mô tả công việc</string>
+    <string name="hint_due_date">Ngày hết hạn (dd/MM/yyyy)</string>
+    <string name="label_priority">Mức độ ưu tiên</string>
+    <string name="label_status">Trạng thái công việc</string>
+    <string name="hint_search">Tìm kiếm theo tên công việc…</string>
+    
+    <!-- Priority options -->
+    <string name="priority_high">Cao</string>
+    <string name="priority_medium">Trung bình</string>
+    <string name="priority_low">Thấp</string>
+    
+    <!-- Status options -->
+    <string name="status_pending">Chưa thực hiện</string>
+    <string name="status_completed">Đã hoàn thành</string>
+
+    <!-- Filter options -->
+    <string name="filter_all_status">Tất cả trạng thái</string>
+    <string name="filter_all_priority">Tất cả mức độ ưu tiên</string>
+
+    <!-- Actions -->
+    <string name="action_save">Lưu công việc</string>
+    <string name="action_update">Cập nhật</string>
+    <string name="action_cancel">Hủy</string>
+    <string name="action_edit">Chỉnh sửa</string>
+    <string name="action_delete">Xóa</string>
+    <string name="action_close">Đóng</string>
+    
+    <!-- Messages & Dialogs -->
+    <string name="error_empty_title">Tên công việc không được để trống!</string>
+    <string name="msg_task_added">Thêm công việc thành công!</string>
+    <string name="msg_task_updated">Cập nhật công việc thành công!</string>
+    <string name="msg_task_deleted">Đã xóa công việc!</string>
+    <string name="msg_status_updated">Đã cập nhật trạng thái!</string>
+    <string name="dialog_delete_title">Xác nhận xóa</string>
+    <string name="dialog_delete_message">Bạn có chắc chắn muốn xóa công việc \"%1$s\" không?</string>
+    <string name="dialog_btn_delete">Xóa</string>
+    <string name="dialog_btn_cancel">Hủy</string>
+
+    <!-- Empty state -->
+    <string name="empty_tasks_title">Chưa có công việc nào</string>
+    <string name="empty_tasks_subtitle">Nhấn nút dấu (+) bên dưới để tạo công việc mới hoặc thử thay đổi bộ lọc tìm kiếm.</string>
+</resources>
